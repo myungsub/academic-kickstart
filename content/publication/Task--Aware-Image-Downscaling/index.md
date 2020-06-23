@@ -39,8 +39,8 @@ featured: false
 url_pdf: http://openaccess.thecvf.com/content_ECCV_2018/papers/Heewon_Kim_Task-Aware_Image_Downscaling_ECCV_2018_paper.pdf
 url_code:
 url_dataset:
-url_poster:
-url_project:
+url_poster: https://cv.snu.ac.kr/research/taid/assets/projects/eccv2018_poster_taid.pdf
+url_project: https://cv.snu.ac.kr/research/taid/
 url_slides:
 url_source:
 url_video:

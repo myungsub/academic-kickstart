@@ -31,7 +31,7 @@ education:
   - course: PhD Candidate in Electrical & Computer Engineering
     institution: Seoul National University
     year: 2013~
-  - course: BS in Electrical & Computer Engineering
+  - course: BE in Electrical & Computer Engineering
     institution: Seoul National University
     year: 2009~2013
 
