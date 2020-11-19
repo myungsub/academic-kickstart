@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "[WACV`21] DynaVSR: Dynamic Adaptive Blind Video Super-Resolution"
-authors: [Suyoung Lee\*, Myungsub Choi\*, Kyoung Mu Lee]
+authors: [Suyoung Lee*, Myungsub Choi*, Kyoung Mu Lee]
 date: 2020-11-10T00:14:39+09:00
 doi: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2011.04482.pdf
 url_code: https://github.com/esw0116/DynaVSR
 url_dataset:
 url_poster:

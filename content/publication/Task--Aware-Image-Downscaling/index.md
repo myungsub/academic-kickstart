@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "[ECCV`18] Task-Aware Image Downscaling"
-authors: [Myungsub Choi, Heewon Kim, Kyoung Mu Lee]
+authors: [Heewon Kim, Myungsub Choi, Bee Lim, Kyoung Mu Lee]
 date: 2018-10-06T17:38:28+09:00
 doi: ""
 
